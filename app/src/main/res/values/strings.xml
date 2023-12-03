@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CreditCardWatcher</string>
+    <string name="save_this_card_for_future">Save this card for future</string>
+    <string name="cvc">CVC</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="number_hint">XXXX XXXX XXXX XXXX</string>
+    <string name="add">Add</string>
+</resources>
