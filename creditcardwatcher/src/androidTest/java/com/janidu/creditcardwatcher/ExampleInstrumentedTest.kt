@@ -1,4 +1,4 @@
-package com.janidu.cardtextwatcher
+package com.janidu.creditcardwatcher
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

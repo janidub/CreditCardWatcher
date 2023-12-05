@@ -1,4 +1,4 @@
-package com.janidu.cardtextwatcher
+package com.janidu.creditcardwatcher
 
 import org.junit.Test
 

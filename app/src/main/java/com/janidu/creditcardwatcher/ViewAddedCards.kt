@@ -3,7 +3,6 @@ package com.janidu.creditcardwatcher
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.janidu.cardtextwatcher.MaskedCardNumberTextView
 
 class ViewAddedCards:AppCompatActivity() {
     lateinit var viewCardNumber: MaskedCardNumberTextView

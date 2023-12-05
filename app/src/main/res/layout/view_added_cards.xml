@@ -8,7 +8,7 @@
     tools:context=".AddCardActivity"
     android:background="@color/dark_blue">
 
-    <com.janidu.cardtextwatcher.MaskedCardNumberTextView
+    <com.janidu.creditcardwatcher.MaskedCardNumberTextView
         android:id="@+id/tv_cardNumber"
         android:layout_width="match_parent"
         android:layout_height="50dp"

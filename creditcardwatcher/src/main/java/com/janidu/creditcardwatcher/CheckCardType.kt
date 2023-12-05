@@ -1,8 +1,7 @@
-package com.janidu.cardtextwatcher
+package com.janidu.creditcardwatcher
 
 import android.text.Editable
 import android.text.TextWatcher
-import android.util.Log
 import android.widget.EditText
 
 class CheckCardType(number: EditText) {

@@ -1,13 +1,10 @@
-package com.janidu.cardtextwatcher
+package com.janidu.creditcardwatcher
 
-import android.annotation.SuppressLint
 import android.content.Context
 import android.text.Editable
 import android.text.TextWatcher
 import android.util.AttributeSet
 import android.util.Log
-import android.widget.EditText
-import androidx.appcompat.widget.AppCompatEditText
 
 
 class CardNumberEditText @JvmOverloads constructor(
