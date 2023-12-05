@@ -1,4 +1,4 @@
-package com.janidu.cardtextwatcher
+package com.janidu.creditcardwatcher
 
 import android.content.Context
 import android.util.AttributeSet
@@ -14,7 +14,7 @@ class CardImageView @JvmOverloads constructor(
 
     fun changeImage(type:String?){
         var image =0
-        if (type==Constants.MASTERCARD){
+        if(type==Constants.MASTERCARD){
             image = R.drawable.ic_master
             setImageResource(image)
         }else if(type==Constants.VISA){
